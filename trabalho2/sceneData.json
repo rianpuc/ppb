@@ -18,6 +18,12 @@
                 "y": 0.0,
                 "z": 0.0
             },
+            "color": {
+                "r": 0.3108300566673279,
+                "g": 0.7358490228652954,
+                "b": 0.03123885951936245,
+                "a": 1.0
+            },
             "spritePath": "Square",
             "materialPath": "Sprite-Lit-Default",
             "objectType": 1,
@@ -42,6 +48,12 @@
                 "x": 0.0,
                 "y": 0.0,
                 "z": 0.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
             },
             "spritePath": "",
             "materialPath": "",
@@ -68,6 +80,12 @@
                 "y": 0.0,
                 "z": 0.0
             },
+            "color": {
+                "r": 0.0,
+                "g": 0.6976149082183838,
+                "b": 1.0,
+                "a": 1.0
+            },
             "spritePath": "Square",
             "materialPath": "Sprite-Lit-Default",
             "objectType": 1,
@@ -92,6 +110,12 @@
                 "x": 0.0,
                 "y": 0.0,
                 "z": 0.0
+            },
+            "color": {
+                "r": 0.5660377740859985,
+                "g": 0.3130106031894684,
+                "b": 0.013349945656955243,
+                "a": 1.0
             },
             "spritePath": "Square",
             "materialPath": "Sprite-Lit-Default",
@@ -118,6 +142,12 @@
                 "y": 0.0,
                 "z": 0.0
             },
+            "color": {
+                "r": 1.0,
+                "g": 0.9215686321258545,
+                "b": 0.01568627543747425,
+                "a": 1.0
+            },
             "spritePath": "Circle",
             "materialPath": "Sprite-Lit-Default",
             "objectType": 3,
@@ -141,6 +171,12 @@
                         "x": 0.0,
                         "y": 0.0,
                         "z": 0.0
+                    },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
                     },
                     "spritePath": "",
                     "materialPath": "",
@@ -169,6 +205,12 @@
                 "y": 0.0,
                 "z": 0.0
             },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "spritePath": "",
             "materialPath": "",
             "objectType": 0,
@@ -192,6 +234,12 @@
                         "x": 0.0,
                         "y": 0.0,
                         "z": 0.0
+                    },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
                     },
                     "spritePath": "brick",
                     "materialPath": "brick_mat",
@@ -218,6 +266,12 @@
                         "y": 0.0,
                         "z": 0.0
                     },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    },
                     "spritePath": "brick",
                     "materialPath": "brick_mat",
                     "objectType": 1,
@@ -242,6 +296,12 @@
                         "x": 0.0,
                         "y": 0.0,
                         "z": 0.0
+                    },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
                     },
                     "spritePath": "brick",
                     "materialPath": "brick_mat",
@@ -268,6 +328,12 @@
                         "y": 0.0,
                         "z": 0.0
                     },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    },
                     "spritePath": "brick",
                     "materialPath": "brick_mat",
                     "objectType": 1,
@@ -293,6 +359,12 @@
                         "y": 0.0,
                         "z": 0.0
                     },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    },
                     "spritePath": "brick",
                     "materialPath": "brick_mat",
                     "objectType": 1,
@@ -317,6 +389,12 @@
                         "x": 0.0,
                         "y": 0.0,
                         "z": 0.0
+                    },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
                     },
                     "spritePath": "brick",
                     "materialPath": "brick_mat",
