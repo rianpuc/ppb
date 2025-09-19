@@ -27,31 +27,6 @@
             "children": []
         },
         {
-            "objectName": "Main Camera",
-            "position": {
-                "x": 0.0,
-                "y": 0.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "spritePath": "",
-            "materialPath": "",
-            "objectType": 2,
-            "lightIntensity": 0.0,
-            "lightInnerRadius": 0.0,
-            "lightOuterRadius": 0.0,
-            "children": []
-        },
-        {
             "objectName": "Global Light 2D",
             "position": {
                 "x": 0.0,
