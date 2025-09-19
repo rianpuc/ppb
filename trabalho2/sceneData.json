@@ -1,0 +1,357 @@
+{
+    "sceneName": "SampleScene",
+    "objectsInScene": [
+        {
+            "objectName": "Grass",
+            "position": {
+                "x": 0.0,
+                "y": -2.549999952316284
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "Square",
+            "materialPath": "Sprite-Lit-Default",
+            "objectType": 1,
+            "lightIntensity": 0.0,
+            "lightInnerRadius": 0.0,
+            "lightOuterRadius": 0.0,
+            "children": []
+        },
+        {
+            "objectName": "Main Camera",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "",
+            "materialPath": "",
+            "objectType": 2,
+            "lightIntensity": 0.0,
+            "lightInnerRadius": 0.0,
+            "lightOuterRadius": 0.0,
+            "children": []
+        },
+        {
+            "objectName": "Global Light 2D",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "",
+            "materialPath": "",
+            "objectType": 4,
+            "lightIntensity": 1.0,
+            "lightInnerRadius": 360.0,
+            "lightOuterRadius": 1.0,
+            "children": []
+        },
+        {
+            "objectName": "Sky",
+            "position": {
+                "x": 0.0,
+                "y": -2.549999713897705
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "Square",
+            "materialPath": "Sprite-Lit-Default",
+            "objectType": 1,
+            "lightIntensity": 0.0,
+            "lightInnerRadius": 0.0,
+            "lightOuterRadius": 0.0,
+            "children": []
+        },
+        {
+            "objectName": "Dirt",
+            "position": {
+                "x": 0.0,
+                "y": -3.6600000858306886
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "Square",
+            "materialPath": "Sprite-Lit-Default",
+            "objectType": 1,
+            "lightIntensity": 0.0,
+            "lightInnerRadius": 0.0,
+            "lightOuterRadius": 0.0,
+            "children": []
+        },
+        {
+            "objectName": "Sun",
+            "position": {
+                "x": 9.569999694824219,
+                "y": 3.7300000190734865
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "Circle",
+            "materialPath": "Sprite-Lit-Default",
+            "objectType": 3,
+            "lightIntensity": 0.0,
+            "lightInnerRadius": 0.0,
+            "lightOuterRadius": 0.0,
+            "children": [
+                {
+                    "objectName": "Sunlight",
+                    "position": {
+                        "x": 9.350000381469727,
+                        "y": 3.2699999809265138
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "",
+                    "materialPath": "",
+                    "objectType": 4,
+                    "lightIntensity": 1.5,
+                    "lightInnerRadius": 360.0,
+                    "lightOuterRadius": 20.0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "objectName": "Tower",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "spritePath": "",
+            "materialPath": "",
+            "objectType": 0,
+            "lightIntensity": 0.0,
+            "lightInnerRadius": 0.0,
+            "lightOuterRadius": 0.0,
+            "children": [
+                {
+                    "objectName": "1",
+                    "position": {
+                        "x": -10.4399995803833,
+                        "y": -0.27000001072883608
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "brick",
+                    "materialPath": "brick_mat",
+                    "objectType": 1,
+                    "lightIntensity": 0.0,
+                    "lightInnerRadius": 0.0,
+                    "lightOuterRadius": 0.0,
+                    "children": []
+                },
+                {
+                    "objectName": "2",
+                    "position": {
+                        "x": -9.729999542236329,
+                        "y": -0.9900000095367432
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "brick",
+                    "materialPath": "brick_mat",
+                    "objectType": 1,
+                    "lightIntensity": 0.0,
+                    "lightInnerRadius": 0.0,
+                    "lightOuterRadius": 0.0,
+                    "children": []
+                },
+                {
+                    "objectName": "3",
+                    "position": {
+                        "x": -10.4399995803833,
+                        "y": -0.9900000095367432
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "brick",
+                    "materialPath": "brick_mat",
+                    "objectType": 1,
+                    "lightIntensity": 0.0,
+                    "lightInnerRadius": 0.0,
+                    "lightOuterRadius": 0.0,
+                    "children": []
+                },
+                {
+                    "objectName": "4",
+                    "position": {
+                        "x": -10.4399995803833,
+                        "y": -1.7100000381469727
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "brick",
+                    "materialPath": "brick_mat",
+                    "objectType": 1,
+                    "lightIntensity": 0.0,
+                    "lightInnerRadius": 0.0,
+                    "lightOuterRadius": 0.0,
+                    "children": []
+                },
+                {
+                    "objectName": "5",
+                    "position": {
+                        "x": -9.729999542236329,
+                        "y": -1.7100000381469727
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "brick",
+                    "materialPath": "brick_mat",
+                    "objectType": 1,
+                    "lightIntensity": 0.0,
+                    "lightInnerRadius": 0.0,
+                    "lightOuterRadius": 0.0,
+                    "children": []
+                },
+                {
+                    "objectName": "6",
+                    "position": {
+                        "x": -9.020000457763672,
+                        "y": -1.7100000381469727
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "spritePath": "brick",
+                    "materialPath": "brick_mat",
+                    "objectType": 1,
+                    "lightIntensity": 0.0,
+                    "lightInnerRadius": 0.0,
+                    "lightOuterRadius": 0.0,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
